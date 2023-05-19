@@ -1,6 +1,8 @@
 # snake_project
 
-The snake game
+Object oriented programming.
+
+The famous snake game.
 
 The more food you collect the faster you'll move and grow longer.
 
